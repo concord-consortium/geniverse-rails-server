@@ -1,0 +1,3 @@
+[submodule "Geniverse-SproutCore"]
+	path = Geniverse-SproutCore
+	url = git://github.com/concord-consortium/Geniverse-SproutCore.git

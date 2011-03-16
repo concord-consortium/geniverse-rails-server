@@ -1,0 +1,7 @@
+This is a simple wrapper around the Geniverse rails server code in the Geniverse-Sproutcore project.
+
+This provides a simple way to get a Geniverse rails backend server up and running.
+
+Your virtual host config should include:
+DocumentRoot /path/to/geniverse-rails-server.git/static
+RailsBaseURI /rails
